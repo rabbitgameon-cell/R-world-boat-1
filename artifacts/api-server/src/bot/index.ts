@@ -4,8 +4,8 @@ import { logger } from "../lib/logger";
 
 const { pathfinder, Movements } = pathfinderPkg;
 
-const HOST = "Rabbite6555.aternos.me";
-const PORT = 56170;
+const HOST = " Rabbite6555-ACGQ.aternos.me";
+const PORT = 60064;
 const USERNAME = "Rat-pro";
 const RECONNECT_DELAY_MS = 8000;
 
